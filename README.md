@@ -34,7 +34,7 @@ MCODE/
 ├── index.html           # Main HTML file
 ├── style.css            # Custom CSS styles
 ├── gradient.png         # Background gradient image
-├── screenshot.png       # Screenshot of the UI
+├── image.png       # Screenshot of the UI
 ```
 
 ---
@@ -45,12 +45,12 @@ To view this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/mcode.git
+   git clone https://github.com/muzaffar401/3D_WEBSITE.git
    ```
 
 2. **Navigate to the project folder:**
    ```bash
-   cd mcode
+   cd 3D_WEBSITE
    ```
 
 3. **Open `index.html` in your browser.**
