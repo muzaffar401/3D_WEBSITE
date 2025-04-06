@@ -218,6 +218,11 @@ main {
     nav{
         display: none;
     }
+      
+    .buttons{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
 
     header h1{
         font-size: 2rem;
